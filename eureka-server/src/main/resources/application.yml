@@ -2,8 +2,8 @@ server:
  port: 1111
 #eureka:instance:h:stname=localhost
 eureka:
- client:
- register-with-eureka: false
- serviceUrl:
-    defaultZone: http://localhost:1111/eureka/
+  client:
+    register-with-eureka: false
+    serviceUrl:
+      defaultZone: http://localhost:1111/eureka/
     fetch-registry: false
