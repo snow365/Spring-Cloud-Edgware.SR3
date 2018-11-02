@@ -133,12 +133,12 @@
             <path>
               <item name="spring cloud compute-service" type="58d84e3e:PackageViewProjectNode" />
               <item name="compute-service" type="616d4139:PackageViewModuleNode" />
-              <item name="com.didispace" type="1f31426a:PackageElementNode" />
+              <item name="com.snow" type="1f31426a:PackageElementNode" />
             </path>
             <path>
               <item name="spring cloud compute-service" type="58d84e3e:PackageViewProjectNode" />
               <item name="compute-service" type="616d4139:PackageViewModuleNode" />
-              <item name="com.didispace" type="1f31426a:PackageElementNode" />
+              <item name="com.snow" type="1f31426a:PackageElementNode" />
               <item name="web" type="1f31426a:PackageElementNode" />
             </path>
           </expand>

@@ -1,6 +1,6 @@
-package com.didispace;
+package com.snow;
 
-import com.didispace.web.ComputeController;
+import com.snow.web.ComputeController;
 import org.junit.Before;
 import org.junit.Test;
 import org.junit.runner.RunWith;

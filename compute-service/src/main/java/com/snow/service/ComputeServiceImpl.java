@@ -1,4 +1,4 @@
-package com.didispace.service;
+package com.snow.service;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.context.ApplicationContext;
